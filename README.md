@@ -1,4 +1,5 @@
-# Kaggle- Give Me Some Credit
+# Kaggle- Give Me Some Credit 
+[Competition Link](https://www.kaggle.com/c/GiveMeSomeCredit) </br>
 Language: Python (scikit-learn, Matplotlib, pandas, NumPy) </br> 
 Skills: Machine Learning, Data Exploration, Data Visualization </br>
 Built Supervised Machine Learning models to predicting the probability that somebody will experience 
