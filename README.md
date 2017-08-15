@@ -5,8 +5,8 @@ Improve on the state of the art in credit scoring by predicting the probability 
 financial distress in the next two years.
 
 <p align="left">
-  <img src="table.JPG" width="600"/>
+  <img src="kaggle_give_me_some_credit.JPG" width="600"/>
 </p>
 <p align="left">
-  <img src="hist.JPG" width="400"/>
+  <img src="leaderboard.JPG" width="400"/>
 </p>
