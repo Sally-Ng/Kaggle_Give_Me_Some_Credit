@@ -10,3 +10,6 @@ financial distress in the next two years. Received a score of 0.77 and the winne
 <p align="left">
   <img src="leaderboard.JPG" width="800"/>
 </p>
+<p align="left">
+  <img src="algorithms.JPG" width="600"/>
+</p>
