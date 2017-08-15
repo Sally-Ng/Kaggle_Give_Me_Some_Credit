@@ -11,7 +11,7 @@ financial distress in the next two years. Received a score of 0.77 and the winne
   <img src="leaderboard.JPG" width="800"/>
 </p>
 </br>
-Used Naive Bayes, DecisionTree and Logistic Regression algorithms to train the model, and selected the Logistic Regression algorithm for the model as it provides the best F1 and accuarcy scores. 
+Used Naive Bayes, DecisionTree and Logistic Regression algorithms to train the model, and selected the Logistic Regression algorithm as it provides the best F1 and accuarcy scores. 
 <p align="left">
   <img src="algorithms.JPG" width="500"/>
 </p>
